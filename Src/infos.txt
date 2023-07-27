@@ -1,0 +1,16 @@
+get unique id from user
+get checksum from file
+get username from prefered and copy it on first line of la.txt
+create hash of the 3 and copy it on second line of la.txt
+
+there are 3 textboxes, username, unique id, and the result of the hash to put on second line of la.txt
+
+it's for check the hash in program and the hash in la.txt for local authentication
+
+
+
+
+
+
+
+

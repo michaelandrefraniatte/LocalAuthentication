@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\bin\Release\GetHashedChecksum.exe.config
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\bin\Release\GetHashedChecksum.exe
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\bin\Release\GetHashedChecksum.pdb
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.Form1.resources
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.exe
+C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.pdb

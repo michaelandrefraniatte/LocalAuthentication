@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\bin\Release\TextCryptor.exe.config
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\bin\Release\TextCryptor.exe
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\bin\Release\TextCryptor.pdb
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.Form1.resources
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.exe
+C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.pdb

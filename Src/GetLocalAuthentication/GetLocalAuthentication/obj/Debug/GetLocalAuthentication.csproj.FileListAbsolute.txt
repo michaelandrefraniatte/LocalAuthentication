@@ -1,0 +1,10 @@
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\bin\Debug\GetLocalAuthentication.exe.config
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\bin\Debug\GetLocalAuthentication.exe
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\bin\Debug\GetLocalAuthentication.pdb
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.Form1.resources
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.Properties.Resources.resources
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.csproj.GenerateResource.cache
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.exe
+C:\Users\mic\Documents\GitHub\GetLocalAuthentication\Src\GetLocalAuthentication\GetLocalAuthentication\obj\Debug\GetLocalAuthentication.pdb

@@ -1,0 +1,14 @@
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\bin\Debug\GetUniqueID.exe.config
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\bin\Debug\GetUniqueID.exe
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\bin\Debug\GetUniqueID.pdb
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.exe
+C:\Users\mic\Documents\GitHub\testconnectionfirestore\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.pdb
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\bin\Debug\GetUniqueID.exe.config
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\bin\Debug\GetUniqueID.exe
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\bin\Debug\GetUniqueID.pdb
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.csprojAssemblyReference.cache
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.csproj.CoreCompileInputs.cache
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.exe
+C:\Users\mic\Documents\GitHub\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Debug\GetUniqueID.pdb
