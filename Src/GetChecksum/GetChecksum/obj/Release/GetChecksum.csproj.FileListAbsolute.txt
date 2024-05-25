@@ -1,0 +1,10 @@
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\bin\Release\GetChecksum.exe.config
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\bin\Release\GetChecksum.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\bin\Release\GetChecksum.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.Form1.resources
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.Properties.Resources.resources
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetChecksum\GetChecksum\obj\Release\GetChecksum.pdb

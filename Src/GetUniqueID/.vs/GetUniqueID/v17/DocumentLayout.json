@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Documents\\github\\LocalAuthentication\\Src\\GetUniqueID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{268A82AD-6A64-40E8-8626-16F98BA335B4}|GetUniqueID\\GetUniqueID.csproj|c:\\users\\micha\\documents\\github\\localauthentication\\src\\getuniqueid\\getuniqueid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{268A82AD-6A64-40E8-8626-16F98BA335B4}|GetUniqueID\\GetUniqueID.csproj|solutionrelative:getuniqueid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Documents\\github\\LocalAuthentication\\Src\\GetUniqueID\\GetUniqueID\\Program.cs",
+              "RelativeDocumentMoniker": "GetUniqueID\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\Documents\\github\\LocalAuthentication\\Src\\GetUniqueID\\GetUniqueID\\Program.cs",
+              "RelativeToolTip": "GetUniqueID\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T22:22:24.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -6,3 +6,10 @@ C:\Users\mic\Documents\Perso\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Release
 C:\Users\mic\Documents\Perso\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.csproj.CoreCompileInputs.cache
 C:\Users\mic\Documents\Perso\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.exe
 C:\Users\mic\Documents\Perso\GetUniqueID\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\bin\Release\GetUniqueID.exe.config
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\bin\Release\GetUniqueID.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\bin\Release\GetUniqueID.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUniqueID\GetUniqueID\obj\Release\GetUniqueID.pdb

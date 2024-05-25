@@ -8,3 +8,13 @@ C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedC
 C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csproj.CoreCompileInputs.cache
 C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.exe
 C:\Users\mic\Documents\GitHub\GetHashedChecksum\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\bin\Release\GetHashedChecksum.exe.config
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\bin\Release\GetHashedChecksum.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\bin\Release\GetHashedChecksum.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.Form1.resources
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.Properties.Resources.resources
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetHashedChecksum\GetHashedChecksum\obj\Release\GetHashedChecksum.pdb

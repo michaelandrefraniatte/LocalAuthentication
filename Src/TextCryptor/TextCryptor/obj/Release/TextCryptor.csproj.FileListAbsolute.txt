@@ -8,3 +8,13 @@ C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Releas
 C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csproj.CoreCompileInputs.cache
 C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.exe
 C:\Users\mic\Documents\GitHub\TextCryptor\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\bin\Release\TextCryptor.exe.config
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\bin\Release\TextCryptor.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\bin\Release\TextCryptor.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.Form1.resources
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.Properties.Resources.resources
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csproj.GenerateResource.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\TextCryptor\TextCryptor\obj\Release\TextCryptor.pdb
