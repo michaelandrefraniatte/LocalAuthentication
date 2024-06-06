@@ -1,0 +1,7 @@
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\bin\Release\GetUser.exe.config
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\bin\Release\GetUser.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\bin\Release\GetUser.pdb
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\obj\Release\GetUser.csproj.AssemblyReference.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\obj\Release\GetUser.csproj.CoreCompileInputs.cache
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\obj\Release\GetUser.exe
+C:\Users\micha\Documents\github\LocalAuthentication\Src\GetUser\GetUser\obj\Release\GetUser.pdb
