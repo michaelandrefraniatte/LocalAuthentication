@@ -5,6 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
 namespace GetUser
 {
@@ -19,26 +20,40 @@ namespace GetUser
                 MessageBox.Show(message, caption, MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
         }
-        [DllImport("advapi32.dll")]
+        [DllImport("advapi32.dll", SetLastError = true)]
         private static extern bool LogonUser(string lpszUsername, string lpszDomain, string lpszPassword, int dwLogonType, int dwLogonProvider, out IntPtr phToken);
+        private static string username, password;
         static void Main(string[] args)
         {
             Console.WriteLine("\tEnter a username");
-            string username = Console.ReadLine();
+            username = Console.ReadLine();
             Console.WriteLine("\tEnter a password");
-            string password = Console.ReadLine();
-            IntPtr token;
+            password = Console.ReadLine();
             try
             {
-                if (LogonUser(username, null, password, 3, 0, out token))
+                if (GetUser())
                 {
-                    Console.WriteLine(token);
+                    Console.WriteLine("ok");
                 }
             }
-            catch { }
             finally
             {
                 Console.ReadKey();
+            }
+        }
+        static bool GetUser()
+        {
+            try
+            {
+                IntPtr token;
+                bool result = LogonUser(username, null, password, 3, 0, out token);
+                int error = Marshal.GetLastWin32Error();
+                Console.WriteLine(error);
+                return result | error == 1327;
+            }
+            catch
+            {
+                return false;
             }
         }
     }
